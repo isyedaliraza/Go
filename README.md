@@ -1,2 +1,2 @@
-# golang
-Repository for go projects and code
+# Go
+Repository for Golang projects and code
